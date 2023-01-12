@@ -1,4 +1,4 @@
-# TermProject
+# Term Project - John Beanblossom
 Term project for Data Structures and Algorithms course
 Goal of the assignment: Develop a simple spell checker and word suggestion program using Hashing.
 
